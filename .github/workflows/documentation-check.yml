@@ -1,4 +1,4 @@
-name: Documentation Check
+name: documentation-check
 
 on: [pull_request]
 
